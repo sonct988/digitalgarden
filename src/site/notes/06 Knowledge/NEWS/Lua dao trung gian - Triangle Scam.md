@@ -1,28 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/06-knowledge/news/lua-dao-trung-gian-triangle-scam/","title":"Câu chuyện lừa đảo qua trung gian","tags":["news","scam"],"created":"2025-11-13 10:34","updated":"2025-11-13 10:40"}
+{"dg-publish":true,"permalink":"/06-knowledge/news/lua-dao-trung-gian-triangle-scam/","title":"Câu chuyện lừa đảo qua trung gian","tags":["news","scam"],"created":"2025-11-13 10:34","updated":"2025-11-14 14:06"}
 ---
 
 # Bài gốc
 
-Mình có tìm mua 1 con Mac Mini M4 trên các group để mua sử dụng. Tình cờ thấy bài đăng của 1 bạn tên fb là “Phạm Hoan”. Hoan bán con Mac Mini M4 mua edu còn nguyên seal, nguyên hộp của Apple chưa bóc với giá 11.6 triệu. 
-Sau khi trả giá thì Hoan đồng ý bán cho mình với mức giá 11 triệu nhưng yêu cầu lấy ngay vì Hoan cần tiền. Mình nghe đã thấy rất hời rồi, chưa bóc seal mà rẻ dc hơn củ. Nhưng tính mình cẩn trọng, nghĩ trên đời này làm sao có giá đấy nhỉ? Mình dò hỏi thì Hoan bảo Hoan được hoàn thẻ Cashback từ Ngân hàng nữa nên mới bán giá đấy, Hoan bảo mình chạy qua lấy đi, Hoan sẽ forward email hoá đơn của Apple cho mình khi mình qua xem.
-Nghe là thấy vô cùng hợp lý. Hoan còn dặn mình bóc seal máy thì quay video lại cho cẩn thận =)).
-Tiếp theo Hoan bảo mình qua nhà lấy, vợ Hoan sẽ cầm ra cho. Nhưng, CHUYỂN TIỀN THÌ CHUYỂN CHO HOAN VÌ ĐÓ LÀ QUỸ RIÊNG, sợ vợ thu. Ối dời ơi, với những người có vợ như mình thì phải lói là vô cùng đồng cảm luôn. Ok ngay. Tiền giao cháo múc sợ gì. 
-Mình được Hoan cho 1 sdt, bảo liên hệ qua lấy máy. Mình chạy lóc cóc sang Mỹ Đình, được 1 bạn nữ đón. Đứng ngay ở khu để xe của chung cư mini bạn ấy. Bạn ấy niềm nở đưa máy cho mình. Máy còn nguyên hộp catton của Apple luôn. Quá đẹp. 
-Khi mình xem máy, Hoan ngay lập tức nhắn tin cho mình, bảo đã chuyển hoá đơn qua email, check đi. Mình cẩn thận check hoá đơn, trùng Imei trên hộp. Nhưng mình để ý, hoá đơn tên người nhận là “Trọng”. 
-Mọi thứ xong xuôi, bạn nữ kia bảo chuyển cho bạn ấy hoặc chồng bạn ấy cũng được. Nghe tới đây mình nghĩ thôi đã hứa vs bạn nam rồi, nên sẽ chuyển cho bạn ấy.
-Bạn Hoan gửi stk tên Phạm Văn Hoan, giục mình chuyển khoản đi rồi về mà test cho ngon. Mình bấm đến bước quét mặt nhưng mình hỏi bạn nữ: “Chồng bạn tên là gì? Phạm Văn Hoan hay là Trọng như trong hoá đơn”. May mắn là mình soi rất kĩ hoá đơn, kể cả imei hay tên người nhận. 
-Âu nâu, bạn nữ bảo chồng bạn ấy là Trọng. Hoan là người chồng bạn ấy bảo qua lấy máy. Loằng ngoằng rồi đây, rốt cuộc mình phải chuyển khoản cho ai.
-Hoan tiếp tục giục mình, bảo “Trọng là em, nhờ nó cầm hộ thôi, bảo với nó rồi, chuyển cho mình đi”
-Mình hold lại ko chuyển nữa, bảo với bạn nữ là chốt người nhận đi rồi tôi chuyển, chuẩn 11 triệu sang tay.
-Bạn nữ gọi cho chồng, chồng bạn ấy bảo gì đó trong điện thoại, 2 người loay hoay 1 lúc thì bạn nữ bảo mình: “ Hoan là người dặn tới lấy máy, giờ mình chuyển cho Hoan, xong Hoan chuyển tiền cho chồng bạn ấy rồi mình cầm máy về”. 
-Ái chà chà, éo nhé. Mình ngay lập tức từ chối, bảo chuyển cho 1 người đúng 11 triệu rồi mình cầm máy về, Hoan, Trọng hay bạn nào? Mình biết mình bị lừa r, mình đợi xem định làm gì mình tiếp. 
-Đột nhiên bạn nữ bảo với mình:”không phải là 11 triệu mà là 12tr3 chứ, mình đăng 12tr3, Hoan bảo bạn tới lấy rồi Hoan chuyển tiền cho mình. Bạn chuyển cho Hoan đi rồi tí Hoan chuyển cho chồng mình rồi bạn cầm máy về”
-Á à. Lý do tại sao ông Hoan chỉ lấy của mình 11 triệu, còn đưa cho chồng bạn nữ 12tr3 vậy. 
-Ngay lập tức bạn Hoan kia xoá fb luôn :)). Mình thông báo là mình không lấy máy nữa.
-Bạn nữ lại quay ra bảo mình bóc seal rồi, giờ mua cho bạn ấy với giá 12tr3. Âu nâu, máy móc ntn mình không mua nữa, mình đi về. 
-Như vậy chỉ cần mình 1 giây không cẩn thận mà bâmd chuyển khoản ngay thì chắc chắn mất 11 triệu. Vì mình chuyển xong vợ bạn kia lại bảo éo biết Hoan nào thì mình ăn ứt ngay:))).  
-Thủ đoạn của đối tượng Hoan cực kì tinh vi, còn việc vợ chồng bạn kia có nằm trong đường dây với Hoan hay cũng là nạn nhân như mình, bị lấy ảnh máy đăng lại thì mời anh em bình luận.
+- Mình có tìm mua 1 con Mac Mini M4 trên các group để mua sử dụng. Tình cờ thấy bài đăng của 1 bạn tên fb là "Phạm Hoan". Hoan bán con Mac Mini M4 mua edu còn nguyên seal, nguyên hộp của Apple chưa bóc với giá 11.6 triệu. 
+- Sau khi trả giá thì Hoan đồng ý bán cho mình với mức giá 11 triệu nhưng yêu cầu lấy ngay vì Hoan cần tiền. Mình nghe đã thấy rất hời rồi, chưa bóc seal mà rẻ dc hơn củ. Nhưng tính mình cẩn trọng, nghĩ trên đời này làm sao có giá đấy nhỉ? Mình dò hỏi thì Hoan bảo Hoan được hoàn thẻ Cashback từ Ngân hàng nữa nên mới bán giá đấy, Hoan bảo mình chạy qua lấy đi, Hoan sẽ forward email hoá đơn của Apple cho mình khi mình qua xem.
+- Nghe là thấy vô cùng hợp lý. Hoan còn dặn mình bóc seal máy thì quay video lại cho cẩn thận =)).
+- Tiếp theo Hoan bảo mình qua nhà lấy, vợ Hoan sẽ cầm ra cho. Nhưng, CHUYỂN TIỀN THÌ CHUYỂN CHO HOAN VÌ ĐÓ LÀ QUỸ RIÊNG, sợ vợ thu. Ối dời ơi, với những người có vợ như mình thì phải lói là vô cùng đồng cảm luôn. Ok ngay. Tiền giao cháo múc sợ gì. 
+- Mình được Hoan cho 1 sdt, bảo liên hệ qua lấy máy. Mình chạy lóc cóc sang Mỹ Đình, được 1 bạn nữ đón. Đứng ngay ở khu để xe của chung cư mini bạn ấy. Bạn ấy niềm nở đưa máy cho mình. Máy còn nguyên hộp catton của Apple luôn. Quá đẹp. 
+- Khi mình xem máy, Hoan ngay lập tức nhắn tin cho mình, bảo đã chuyển hoá đơn qua email, check đi. Mình cẩn thận check hoá đơn, trùng Imei trên hộp. Nhưng mình để ý, hoá đơn tên người nhận là "Trọng". 
+- Mọi thứ xong xuôi, bạn nữ kia bảo chuyển cho bạn ấy hoặc chồng bạn ấy cũng được. Nghe tới đây mình nghĩ thôi đã hứa vs bạn nam rồi, nên sẽ chuyển cho bạn ấy.
+- Bạn Hoan gửi stk tên Phạm Văn Hoan, giục mình chuyển khoản đi rồi về mà test cho ngon. Mình bấm đến bước quét mặt nhưng mình hỏi bạn nữ: "Chồng bạn tên là gì? Phạm Văn Hoan hay là Trọng như trong hoá đơn". May mắn là mình soi rất kĩ hoá đơn, kể cả imei hay tên người nhận. 
+- Âu nâu, bạn nữ bảo chồng bạn ấy là Trọng. Hoan là người chồng bạn ấy bảo qua lấy máy. Loằng ngoằng rồi đây, rốt cuộc mình phải chuyển khoản cho ai.
+- Hoan tiếp tục giục mình, bảo "Trọng là em, nhờ nó cầm hộ thôi, bảo với nó rồi, chuyển cho mình đi"
+- Mình hold lại ko chuyển nữa, bảo với bạn nữ là chốt người nhận đi rồi tôi chuyển, chuẩn 11 triệu sang tay.
+- Bạn nữ gọi cho chồng, chồng bạn ấy bảo gì đó trong điện thoại, 2 người loay hoay 1 lúc thì bạn nữ bảo mình: " Hoan là người dặn tới lấy máy, giờ mình chuyển cho Hoan, xong Hoan chuyển tiền cho chồng bạn ấy rồi mình cầm máy về". 
+- Ái chà chà, éo nhé. Mình ngay lập tức từ chối, bảo chuyển cho 1 người đúng 11 triệu rồi mình cầm máy về, Hoan, Trọng hay bạn nào? Mình biết mình bị lừa r, mình đợi xem định làm gì mình tiếp. 
+- Đột nhiên bạn nữ bảo với mình:"không phải là 11 triệu mà là 12tr3 chứ, mình đăng 12tr3, Hoan bảo bạn tới lấy rồi Hoan chuyển tiền cho mình. Bạn chuyển cho Hoan đi rồi tí Hoan chuyển cho chồng mình rồi bạn cầm máy về"
+- Á à. Lý do tại sao ông Hoan chỉ lấy của mình 11 triệu, còn đưa cho chồng bạn nữ 12tr3 vậy. 
+- Ngay lập tức bạn Hoan kia xoá fb luôn :)). Mình thông báo là mình không lấy máy nữa.
+- Bạn nữ lại quay ra bảo mình bóc seal rồi, giờ mua cho bạn ấy với giá 12tr3. Âu nâu, máy móc ntn mình không mua nữa, mình đi về. 
+- Như vậy chỉ cần mình 1 giây không cẩn thận mà bâmd chuyển khoản ngay thì chắc chắn mất 11 triệu. Vì mình chuyển xong vợ bạn kia lại bảo éo biết Hoan nào thì mình ăn ứt ngay:))).  
+- Thủ đoạn của đối tượng Hoan cực kì tinh vi, còn việc vợ chồng bạn kia có nằm trong đường dây với Hoan hay cũng là nạn nhân như mình, bị lấy ảnh máy đăng lại thì mời anh em bình luận.
 
 # Giải thích cơ chế
 Giải thích cho mọi người hiểu trường hợp này, chiêu này cũng cũ rồi nhưng vẫn còn rất nhiều người dính. 
